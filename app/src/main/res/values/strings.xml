@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndroBoum</string>
+    <string name="title">L\'application qui fait boum !</string>
+    <string name="copiryght">\@Léa Maurice - 2018</string>
+    <string name="image" />
+    <string name="btnStart">Démarrer</string>
+    <!-- ... -->
+    <string name="facebook_application_id" translatable="false">APP_ID</string>
+    <!-- Facebook Application ID, prefixed by 'fb'. Enables Chrome Custom tabs. -->
+    <string name="facebook_login_protocol_scheme" translatable="false">fbAPP_ID</string>
+    <string name="action_logout">Déconnexion</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="email">email</string>
+    <string name="img_profil">image profil</string>
+</resources>
